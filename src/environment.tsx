@@ -1,0 +1,1 @@
+export const IPBASE_API_KEY = "1ozGodDqGKtm0fq5Gbsvafj7LnjlZNqILS7DVaIy";
